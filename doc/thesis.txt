@@ -1,5 +1,6 @@
 Thesis
-By Jim Hayes
+By James E. Hayes
+Title: Git practice for Software Bootcamp
 
 Fin.
 
